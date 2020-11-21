@@ -22,6 +22,16 @@
 //     });
 //     console.log(numArray)
 
+//// Medium (1) 
+
+
+// var input = prompt("Enter a character:");
+// if (input == 'a' || input == 'e' || input == 'i' || input == 'o' || input == 'u') {
+//     console.log("Its a vowel");
+// } else ((input >= 'a' && input <= 'z') || (input >= 'A' && input <= 'Z')) {
+//     console.log("Its a consonant");
+// } 
+
 // Medium(2)
 
 // function isAnagram(stringA, stringB) {
